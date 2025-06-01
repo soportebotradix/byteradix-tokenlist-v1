@@ -1,6 +1,7 @@
 {
   "name": "Byteradix Token List",
-  "logoURI": "https://botradix.com/logo.png",
+ "logoURI": "https://raw.githubusercontent.com/soportebotradix/byteradix-tokenlist-v1/main/BYTX-logo-256.png",
+
   "keywords": [
     "byteradix",
     "BYTX",
@@ -21,7 +22,7 @@
       "name": "Byteradix",
       "symbol": "BYTX",
       "decimals": 18,
-      "logoURI": "https://botradix.com/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/soportebotradix/byteradix-tokenlist-v1/main/BYTX-logo-256.png",
       "description": "Byteradix (BYTX) es el token nativo de Botradix, una plataforma tecnológica avanzada que integra soluciones de trading automatizado mediante bots inteligentes con una infraestructura de exchange de alto rendimiento. Botradix ofrece a sus usuarios la posibilidad de operar en mercados Spot y Futuros con herramientas profesionales, participar en pools de liquidez seleccionados, y generar ingresos pasivos a través de programas de staking optimizados. El token BYTX actúa como el eje central del ecosistema, habilitando el acceso a funcionalidades exclusivas, reducciones en comisiones y beneficios adicionales dentro de la plataforma, consolidando su rol como elemento clave en la experiencia integral que ofrece Botradix."
     }
   ]
